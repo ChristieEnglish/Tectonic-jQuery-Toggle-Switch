@@ -1,0 +1,7 @@
+* {text-decoration:none;}
+body {font-family:helvetica,arial;margin:0 auto;width:95%;max-width:1080px;}
+
+/*Switch*/
+.switch {position:absolute;left:0%;top:0px;width:50%;height:20px;background:#88bbbb;color:white;text-shadow:#006666 1px 1px 1px;font-size:0.9em;text-align:center;cursor:pointer;-webkit-transition:1s;}
+.switchon {left:50%;background:#00bbbb;}
+.switchgutter {position:relative;width:100px;height:20px;margin:0px;background:#cccccc;}

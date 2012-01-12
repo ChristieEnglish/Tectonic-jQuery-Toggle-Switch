@@ -1,0 +1,2 @@
+#jQuery Switch#
+As you can see switches are quite easy when using jQuery. In webkit browsers you can watch the switch animate, but you will need to add jQuery animations for other browsers. It is crucial you use the position,width, and height css attributes as included. Everything else can be removed, although you will need to give the switch and gutter different colors to distinguish what's what. Feel free to change the pixel sizes.
